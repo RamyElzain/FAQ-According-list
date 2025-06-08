@@ -1,0 +1,20 @@
+.container{
+  width: 40%;
+  margin: auto;
+  margin-top: 150px;
+  padding: 20px;
+  justify-items: center;
+  background-color: rgb(121, 112, 112);
+  border-radius: 20px;
+}
+.FAQ{
+    width: 90%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    background-color: rgb(255, 255, 255);
+    padding: 5px;
+    border-width: 1px;
+    border-style: solid;
+
+}
